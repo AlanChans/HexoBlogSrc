@@ -5,8 +5,7 @@ access_token:
 install:
 
 
-	- npm install
-	- npm install hexo-cli -g
+
 build_script:
 	- hexo generate
 artifacts:
