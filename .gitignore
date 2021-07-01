@@ -5,18 +5,3 @@ public/
 .deploy*/
 package-lock.json
 
-
-
-themes/next/.gitignore/
-themes/next/.gitattributes
-
-themes/next/source/lib/fancybox/.git/
-themes/next/source/lib/fancybox/.gitattributes
-
-themes/next/source/lib/needsharebutton/.git/
-
-themes/next/source/lib/pjax/.gitignore
-themes/next/source/lib/pjax/.git/
-
-themes/next/source/lib/three/.gitignore
-themes/next/source/lib/three/.git/
