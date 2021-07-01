@@ -5,7 +5,7 @@ environment:
   GIT_USER_EMAIL: 1475411271@qq.com
   GIT_USER_NAME: AlanChans
 access_token:
-    secure: [BGQGfcB9Ug9ifB7hsUK+skSIMtB0kKuY5xO1/9sSMxKUevFezSOr8o9jLckDXhzE]
+    secure: BGQGfcB9Ug9ifB7hsUK+skSIMtB0kKuY5xO1/9sSMxKUevFezSOr8o9jLckDXhzE
 install:
   - node --version
   - npm --version
