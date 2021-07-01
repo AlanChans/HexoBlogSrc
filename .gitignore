@@ -1,5 +1,3 @@
-.DS_Store
-Thumbs.db
 db.json
 *.log
 node_modules/
@@ -8,17 +6,13 @@ public/
 package-lock.json
 
 
-.github/
 
 themes/next/.gitignore/
-themes/next/.github/
 themes/next/.gitattributes
 
-themes/next/source/lib/fancybox/.github/
 themes/next/source/lib/fancybox/.git/
 themes/next/source/lib/fancybox/.gitattributes
 
-themes/next/source/lib/needsharebutton/.github/
 themes/next/source/lib/needsharebutton/.git/
 
 themes/next/source/lib/pjax/.gitignore
@@ -26,4 +20,3 @@ themes/next/source/lib/pjax/.git/
 
 themes/next/source/lib/three/.gitignore
 themes/next/source/lib/three/.git/
-themes/next/source/lib/three/.github/
