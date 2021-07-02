@@ -307,7 +307,7 @@ int main(void)
 }
 ```
 
-```
+```c
 // 类unix系统的匿名映射方法，Linux也可以使用
 #include <stdio.h>
 #include <stdlib.h>
@@ -521,8 +521,6 @@ int main(int argc,char *argv[])
     size = offsetof(struct sockaddr_un, sunpath) + strlen(un.sun_path);
     #define offsetof(type, member) ((int)&((type *)0)->MEMBER)
     ```
-
-    
 
 - 网络`socket`编程：
 
@@ -771,5 +769,4 @@ clean :
 	-$(RM) socket_server socket_client  $(CLIENT_OBJS) $(SERVER_OBJS)
 
 ```
-
 
