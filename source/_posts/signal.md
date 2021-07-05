@@ -111,7 +111,7 @@ The signals SIGKILL and SIGSTOP cannot be caught, blocked, or ignored.
 //9)SIGKILL、19)SIGSTOP信号，不允许忽略或者捕获，只能执行默认动作。甚至不能将其阻塞。
 ```
 
-```
+```c
 Signal        x86/ARM     Alpha/   MIPS   PARISC   Notes
            most others   SPARC
 ─────────────────────────────────────────────────────────────────
