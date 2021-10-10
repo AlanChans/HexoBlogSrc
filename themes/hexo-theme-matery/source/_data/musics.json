@@ -1,11 +1,17 @@
 [{
+    "name": "珊瑚海",
+    "artist": "叶唯伊 / 安寂",
+    "url": "http://music.163.com/song/media/outer/url?id=1822098579.mp3",
+    "cover": "http://p2.music.126.net/2gw2zg6omdLLKDZ7yvE6tQ==/109951164212129907.jpg?"
+},
+{
     "name": "伯虎说(古风钢琴版)",
     "artist": "弹钢琴的余鱼",
     "url": "http://music.163.com/song/media/outer/url?id=1846809171.mp3",
     "cover": "http://p2.music.126.net/2gw2zg6omdLLKDZ7yvE6tQ==/109951165998473028.jpg?"
 }, {
-    "name": "无期",
-    "artist": "光头华夏",
-    "url": "http://music.163.com/song/media/outer/url?id=1374154676.mp3",
-    "cover": "https://p1.music.126.net/kFFj2ZXHP_cI_RV8Et7feA==/109951164630675384.jpg?"
+    "name": "遇见",
+    "artist": "孙燕姿",
+    "url": "http://music.163.com/song/media/outer/url?id=454828887.mp3",
+    "cover": "https://p1.music.126.net/kFFj2ZXHP_cI_RV8Et7feA==/17687843556430013.jpg?"
 }]
