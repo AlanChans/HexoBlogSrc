@@ -93,10 +93,10 @@ music:
 # Whether to display the videos.
 # 是否在首页显示视频.
 video:
-  enable: false
+  enable: true
   showTitle: true
-  title: 精彩视频
-  url: # 必填
+  title: 周末愉快(づ￣3￣)づ╭❤～
+  url: /medias/video/779541805.mp4 # 必填
   pic:
   thumbnails:
   height: # 如：400
