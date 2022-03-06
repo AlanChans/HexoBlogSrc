@@ -9,6 +9,8 @@ environment:
 install:
   - node --version
   - npm --version
+  - npm config list -l
+  - npm config delete https-proxy
   - npm install
   - npm install hexo-cli -g
 build_script:
